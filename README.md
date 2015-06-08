@@ -50,7 +50,7 @@ Valid status codes:
  - `201 Created` if the bird was successfully added
  - `400 Bad request` if any mandatory fields were missing or if the input JSON was invalid
 
- The body is a JSON object based on the JSON schema can be found in `post-birds-response.json`.
+The body is a JSON object based on the JSON schema can be found in `post-birds-response.json`.
 
 List all birds
 --------------
@@ -65,7 +65,7 @@ Valid status codes:
 
  - `200 OK`
 
- The body is a JSON array based on the JSON schema can be found in `get-birds-response.json`.
+The body is a JSON array based on the JSON schema can be found in `get-birds-response.json`.
 
 Get bird by id
 --------------
