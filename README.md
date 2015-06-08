@@ -28,7 +28,7 @@ Delivery
 
 Create a public repo on [GitHub](http://github.com) and post the code there. We will review the `master` branch.
 
-Send an email to `adam@saltside.se` when done.
+Send an email to [adam@saltside.se](mailto: adam@saltside.se) when done.
 
 API specification
 =================
