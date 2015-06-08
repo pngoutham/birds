@@ -8,6 +8,7 @@
     "family",
     "continents"
   ],
+  "additionalProperties": false,
   "properties": {
     "name": {
       "type": "string",

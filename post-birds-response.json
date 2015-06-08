@@ -4,11 +4,19 @@
   "description": "Add a new bird to the library",
   "type": "object",
   "required": [
+    "id",
     "name",
     "family",
-    "continents"
+    "continents",
+    "added",
+    "visible"
   ],
+  "additionalProperties": false,
   "properties": {
+    "id": {
+      "type": "string",
+      "description": "Object id from the database"
+    },
     "name": {
       "type": "string",
       "description": "English bird name"
