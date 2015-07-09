@@ -81,7 +81,7 @@ Valid status codes:
  - `200 OK` if the bird exists
  - `404 Not found` if the bird does not exist
 
-A `404 Not found` is expected when the bird does not exist, but not for birds with `visible` set to `false`.
+A `404 Not found` is expected when the bird does not exist. Birds with `visible` set to `false` should be returned with a `200 OK`.
 
 The response body for a `200 OK` request can be found in `get-birds-id-response.json`.
 
