@@ -22,6 +22,7 @@ Requirements
  - Write this in the language you feel most comfortable with
  - Any web framework is accepted
  - Document how to build and run your application
+ - Document how to run the test suite
 
 Delivery
 ========
