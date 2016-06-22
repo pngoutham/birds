@@ -66,7 +66,7 @@ Valid status codes:
 
  - `200 OK`
 
-The body is a JSON array based on the JSON schema can be found in `get-birds-response.json`.
+The body is a JSON array based on the JSON schema can be found in `get-birds-response.json`. Only visible birds should be returned.
 
 Get bird by id
 --------------
